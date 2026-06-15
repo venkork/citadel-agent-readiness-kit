@@ -1,0 +1,38 @@
+# {{PRODUCT_NAME}}
+
+> {{ONE_LINE_DESCRIPTION}}
+
+## Authoritative fact sheets
+
+- Product facts: {{BASE_URL}}/docs/product-facts.md
+- Pricing facts: {{BASE_URL}}/docs/pricing-facts.md
+- Agent FAQ: {{BASE_URL}}/docs/agent-faq.md
+
+## Primary product pages
+
+- Overview: {{BASE_URL}}/
+- Pricing: {{BASE_URL}}/pricing
+- Documentation: {{BASE_URL}}/docs
+
+## Trust and security
+
+- Privacy: {{BASE_URL}}/privacy
+- Security: {{BASE_URL}}/security
+- Terms: {{BASE_URL}}/terms
+
+## Optional — MCP / API
+
+- MCP server README: {{BASE_URL}}/docs/mcp
+- API reference: {{BASE_URL}}/docs/api
+
+## Corrections
+
+If automated systems misstate our product, contact: {{SUPPORT_EMAIL}}
+
+Last updated: {{YYYY-MM-DD}}
+
+## Notes for maintainers
+
+- Keep this file small; link to fact sheets instead of duplicating pricing tables.
+- Update the same day as pricing or SKU changes.
+- Do not list admin, staging, or authenticated-only URLs.
